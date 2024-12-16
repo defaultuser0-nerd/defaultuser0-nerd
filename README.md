@@ -2,7 +2,7 @@
 
 huge nerd on computers
 
-actually getting pretty okay with c#
+eh c#
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defaultuser0-nerd&show_icons=true&locale=en" alt="defaultuser0-nerd" /></p>
 
